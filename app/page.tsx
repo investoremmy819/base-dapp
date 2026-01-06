@@ -1,0 +1,11 @@
+import WalletConnect from "../components/WalletConnect";
+
+export default function Home() {
+  return (
+    <main style={{ padding: 40 }}>
+      <h1>Base dApp 🚀</h1>
+      <p>Wallet connect ready for Base Network</p>
+      <WalletConnect />
+    </main>
+  );
+}
