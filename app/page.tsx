@@ -9,4 +9,3 @@ export default function Home() {
     </main>
   );
 }
-feat: update base dapp UI for onchain tracking
