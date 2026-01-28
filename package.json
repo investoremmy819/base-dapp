@@ -15,11 +15,7 @@
     "wagmi": "^2.5.7",
     "viem": "^2.7.6"
   },
-  "devDependencies": {
-    "typescript": "^5.3.3"
-  }
-}
-
+  "devDependencies
 
 {
   "name": "base-dapp",
