@@ -46,7 +46,7 @@
     "wagmi": "^2.5.7",
     "viem": "^2.7.6"
   },
-  "devDependencies": {
+  "devDependencie
     "autoprefixer": "^10.4.1
     "postcss": "^8.4.32",
     "tailwindcss": "
