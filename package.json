@@ -364,6 +364,6 @@
   },
   "dev
     "autoprefixer": "^10.4
-    "postcss":
+    "p
     "tailwindcss": "^3.4.0",
     
