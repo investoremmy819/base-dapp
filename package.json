@@ -406,6 +406,4 @@
     "build": "next build",
     "start": "next start"
   },
-  "dependencies": {
-    "@rainbow-me/rainbowkit": "^2.0.0",
-    "
+  "
