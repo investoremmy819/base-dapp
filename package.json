@@ -354,12 +354,4 @@ I'm{
     "build": "next build",
     "start": "next start"
   },
-  "dependencies": {
-    "@rainbow-me/rainbowkit": "^2.0.0",
-    "next": "14.1.0",
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0",
-    "wagmi": "^2.5.7",
-    "viem": "^2.7.6"
-  }
-    "tailwindcss": "
+  
