@@ -27,19 +27,6 @@
 
 
 
-
-
-{
-  "
-    "viem": "^2.7.6"
-  },
-  "devDependencie
-    "autoprefixer": "^10.4.1
-    "postcss": "^8.4.32",
-    "tailwindcss": "
-    "typescr
-
-
 {
   "name": "base-dapp",
   "private": true,
