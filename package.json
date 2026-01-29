@@ -177,7 +177,7 @@ jinjjhh
     "react-dom": "^18.2.0",
     "wagmi": "^2.5.7",
     "viem": "^2.7.6"
-  },
+  }
   "devDependencies": {
     "autoprefixer": "^10.4.16",
     "postss": "^8.4.32",
