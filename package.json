@@ -304,7 +304,7 @@ hh"start"
    "tailwlindcss": "^3.4.0
 
  "name": "base-dapp",
-  "privae": true,
+  "privae": true
   "versgi":"1.0.0",
   "scrgipt": 
     "dev": "ext dev",
