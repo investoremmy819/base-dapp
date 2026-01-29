@@ -314,7 +314,7 @@ uI'm{
     "tailwindcss": "^3.4.0
 
 
-{
+
   "name": "base-dapp",
   "private": true,
   "version": "1.0.0",
