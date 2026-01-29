@@ -2,7 +2,7 @@ uI'm{
   "name": "base-dapp",
   "private": true,
   "version": "1.0.0",
-  "scripts": {
+  "scripts": 
     "dev": "next dev",
     "build": "next build",
     "start": "next start"
