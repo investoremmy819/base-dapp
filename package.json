@@ -7,7 +7,7 @@ uI'm{
     "build": "next build",
     "start": "next start"
   },
-  "dependencies": {
+  "dependencies": 
     "@rainbow-me/rainbowkit": "^2.0.0",
     "next": "14.1.0",
     "react": "^18.2.0",
