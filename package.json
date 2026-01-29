@@ -307,7 +307,7 @@ hh"start"
 
  "name": "base-dapp",
   "privae": true,
-  "versgin":"1.0.0",
+  "versgi":"1.0.0",
   "scrgipt": 
     "dev": "ext dev",
     "build": "next build",
