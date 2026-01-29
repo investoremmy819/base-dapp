@@ -18,7 +18,7 @@ jinjjhh
   "private": true,
   
   "s
-    "dev": "next dev
+    "dev" "next dev
     "build": 
   "dependencies": 
     "@rainbow-me/rainbowkit": "^2.0.0",
