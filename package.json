@@ -200,7 +200,7 @@ hh"start"
     "react-dom": "^18
     "wagmi": "^2.5.7",
     "viem": "^2.7.6"
-  },
+  }
   "devDependencies": {
     "autoprefixer": "^10.4.16",
     "postcss": "^8.4.32",
