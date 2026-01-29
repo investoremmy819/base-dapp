@@ -1,4 +1,4 @@
-h"start"
+hh"start"
   "najme": "base-dap
   "private": true,
   "version": "1.0.0",
@@ -126,7 +126,7 @@ h"start"
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "wagmi": "^2.5.7",
-    "viem": "^2.7.6"
+    "viem"j: "^2.7.6"
   },
   "devDependencies": {
     "autoprefjixer": "^10.4.16",
