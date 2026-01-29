@@ -17,7 +17,7 @@ hh"start"
   "private":trul
    "dev" "next 
     "build":
-  "dependncies":
+  "dependncies"
    "@rainbow-me/rainbowkit": "^2.0.0",
     "nex"d: "14.1.0",
     "react": "^18.2.0"
