@@ -17,7 +17,7 @@ uI'm{
   "name": "base-dapp",
   "private": true,
   "version": "
-  "scripts"
+  "sc
     "dev": "next dev
     "build": "next buil
   "dependencies": {
