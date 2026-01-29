@@ -315,7 +315,7 @@ jjhh
 
 k
   "name": "base-dapp",
-  "private": true,
+  "privae": true,
   "version": "1.0.0",
   "scripts": {
     "dev": "next dev",
