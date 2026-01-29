@@ -314,7 +314,7 @@ jnjinjjhh
 
   "name": "base-dapp",
   "privae": true,
-  "version":"1.0.0",
+  "versin":"1.0.0",
   "script": 
     "dev": "next dev",
     "build": "next build",
