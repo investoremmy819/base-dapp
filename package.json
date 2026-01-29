@@ -18,7 +18,7 @@ hh"start"
    "dev" "next 
     "build"
   "dependncies
-   "@rainbow-me/rainbowkit":"^2.0.0",
+   "@rainbow-me/rainbowkit":"^2.0.0
     "nex"d: "14.1.0",
     "react": "^18.2.0"
     "react-dom": "^18.2.0
