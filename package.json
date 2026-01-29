@@ -323,6 +323,6 @@ uI'm{
     "build": "next build",
     "start": "next start"
  
-  "dependencies": {
+  "dependencies": 
     "@rainbow-me/rainbowkit": "^2.0.0",
     
