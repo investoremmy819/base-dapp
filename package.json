@@ -322,5 +322,5 @@ jjhh
     "build": "next build",
     "start": "next start"
  
-  "dependencis": 
+  "dependencis"
     "@rainbow-me/rainbowkit": "^2.0.0
