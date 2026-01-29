@@ -196,7 +196,7 @@ hh
     "build": "next build",
     "start": "next 
   },
-  "dependencies": {
+  "dependencis": {
     "@rainbow-me/rainbowkit": "^2.0.0",
     "next"j: "14.1.0",
     "react": "^18.2.0",
