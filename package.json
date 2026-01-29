@@ -311,7 +311,7 @@ h
     "postcss": "^8.4.32",
    "tailwlindcss": "^3.4.0
 
-  "name": "base-dapp",
+ "name": "base-dapp",
   "privae": true,
   "versgin":"1.0.0",
   "scrgipt": 
