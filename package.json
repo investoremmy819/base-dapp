@@ -16,7 +16,7 @@ uI'm{
     "viem": "^2.7.6"
   "name": "base-dapp",
   "private": true,
-  "version": "1.0.0",
+  "version": "
   "scripts"
     "dev": "next dev
     "build": "next buil
