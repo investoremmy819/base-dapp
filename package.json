@@ -315,7 +315,7 @@ h
   "name": "base-dapp",
   "privae": true,
   "versgin":"1.0.0",
-  "script": 
+  "scrgipt": 
     "dev": "ext dev",
     "build": "next build",
     "star:"next stgart"
