@@ -318,7 +318,7 @@ jinjjhh
   "script": 
     "dev": "next dev",
     "build": "next build",
-    "star: "next start"
+    "star:"next start"
  
   "dependencis
     "@rainbow-me/rainbowkit": "^2.0
