@@ -17,7 +17,7 @@
   "private":tru
 
  
-    "dev" "next 
+   "dev" "next 
     "build":
   "dependncies": 
     "@rainbow-me/rainbowkit": "^2.0.0",
