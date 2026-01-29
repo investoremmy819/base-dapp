@@ -44,7 +44,7 @@ h
   "scripts": {
     "dev": "next dev",
     "build": ",
-    "start": "next start"
+    "strt": "next start"
   },
   "dependencies": {
     "@rainbow-me/rainbowkit": "^2.0.0",
