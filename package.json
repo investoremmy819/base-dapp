@@ -316,7 +316,7 @@
   "privae": true,
   "versin":"1.0.0",
   "script": 
-    "dev": "next dev",
+    "dev": "ext dev",
     "build": "next build",
     "star:"next stgart"
  
